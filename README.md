@@ -20,7 +20,6 @@ Assim que mais implementações forem realizadas, será atualizado o README para
 <span align="center">
 
 ## <img src="https://user-images.githubusercontent.com/94056841/170145259-de706276-07a0-4247-b25c-0106b248efee.png" width="300px"> 
-
 </span>
 
 
