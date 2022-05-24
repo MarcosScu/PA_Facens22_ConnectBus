@@ -15,6 +15,7 @@
 
 O aplicativo tem como foco facilitar e cooperar com aquele que utiliza o transporte público, tendo assim mais informações do ônibus que espera, se está ou não atrasado. Tudo isso com uma interface intuitiva de visualização, o próprio mapa em tempo real.
 
+Assim que mais implementações forem realizadas, será atualizado o README para informar as instruções para o download do projeto e para o funcionamento do aplicativo.
 
 <span align="center">
 
