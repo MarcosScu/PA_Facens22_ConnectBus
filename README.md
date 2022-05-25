@@ -1,6 +1,8 @@
 # CBUS - ConectBus
 
     Integrantes
+    
+    Nome: Carlos Vinicius Arnobio Santos - RA 160045 / CP110TIN2
 
     Nome: Gabriel Henrique Garcia Camargo - RA 190375 / PA038TIN1
 
