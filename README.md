@@ -2,7 +2,7 @@
 
     Integrantes
     
-    Nome: Carlos Vinicius Arnobio Santos - RA 160045 / CP110TIN2
+    Nome: Carlos Vinicius Arnobio Santos - RA 160045 / PA038TIN3
 
     Nome: Gabriel Henrique Garcia Camargo - RA 190375 / PA038TIN1
 
