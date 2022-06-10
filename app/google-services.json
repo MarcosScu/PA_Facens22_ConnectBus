@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "926090092052",
+    "project_id": "conectbus-3d391",
+    "storage_bucket": "conectbus-3d391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926090092052:android:b334a51558563a96835101",
+        "android_client_info": {
+          "package_name": "com.facens.conectbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926090092052-64aq14e246iuviqnpd8p5gkh8p0b7d38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facens.conectbus",
+            "certificate_hash": "6e23878dc6f1a3b3487cdc9859814bfb9f41bb6f"
+          }
+        },
+        {
+          "client_id": "926090092052-kihc889rd7mev29a5dfi6m7q05kkklpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5X5aCjUMUKzcFIjnNnZSWqGh0k_J8tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926090092052-kihc889rd7mev29a5dfi6m7q05kkklpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
