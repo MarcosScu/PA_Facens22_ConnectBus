@@ -12,8 +12,8 @@
 #### Funcionalidades
 
 - Cadastro e Login do Usuário;
-- Visualização dos ônibus de transporte público e seus itinerários;
-- O ônibus selecionado pelo usuário será visto em tempo real no mapa, e o trajeto que será realizado até chegar no ponto de espera do usuário;
+- Rastreamento em tempo real dos ônibus de transporte público;
+- O rastreamento do ônibus requisitado pelo usuário será visto em tempo real no mapa, até chegar no ponto de espera do usuário e ao destino aproximado;
 
 O aplicativo tem como foco facilitar e cooperar com aquele que utiliza o transporte público, tendo assim mais informações do ônibus que espera, se está ou não atrasado. Tudo isso com uma interface intuitiva de visualização, o próprio mapa em tempo real.
 
